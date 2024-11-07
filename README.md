@@ -19,6 +19,7 @@ The objective of this project is to forecast Malaysia's Covid-19 cases trend.
 3) n_steps was set to 30 which is equivalent to 30 days.
 4) MAPE error obtained is 0.03% which is lesser than 1% when tested against testing dataset.
 5) The lowest value obtained in TensorBoard training loss graph is 0.0009.
+Conclusion: The model is able to predict the Covid-19 cases in Malaysia successfully.
 
 ## Credits
 GitHub - https://github.com/MoH-Malaysia/covid19-public
