@@ -23,7 +23,7 @@ The objective of this project is to forecast Malaysia's Covid-19 cases trend.
 Conclusion: The model is able to predict the Covid-19 cases in Malaysia successfully.
 
 ## Credits
-GitHub - https://github.com/MoH-Malaysia/covid19-public
-Official data on the COVID-19 epidemic in Malaysia. 
+GitHub - https://github.com/MoH-Malaysia/covid19-public  
+Official data on the COVID-19 epidemic in Malaysia.   
 Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
 
